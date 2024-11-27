@@ -54,7 +54,7 @@ This project involves automating the testing process for **QKart**, an e-commerc
 ![QKart home Page](qkart_aut.png)  
 
 ### **QKart Registration Page**  
-![QKart Registration Page](qkart_registration.png)  
+![QKart Registration Page](qkart_register.png)  
 
 ### **QKart Login Page**  
 ![QKart Login Page](qkart_login.png)  
