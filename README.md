@@ -72,4 +72,18 @@ This project involves automating the testing process for **QKart**, an e-commerc
 ## 📚 **How to Run the Automation**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Gourab-Pal/QKart_Automation.git
+   git clone https://github.com/Gourab-Pal/QA-Qkart.git
+2. Install dependencies:  
+    - **Selenium WebDriver**  
+    - **ChromeDriver** (or your browser's driver)  
+
+3. Run the test scripts using your favorite IDE or CLI.  
+
+---
+
+## 📜 **Learn More About XFlix**  
+
+- [📘 XFlix Documentation](#) _([Project website](https://www.crio.do/learn/portfolio/gourab-pal-gpal/ME_QKART_QA_V2/))_  
+- [🌐 Live Website](#) _([Qkart website](https://crio-qkart-frontend-qa.vercel.app/))_  
+
+---
